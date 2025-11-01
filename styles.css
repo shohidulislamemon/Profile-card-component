@@ -37,8 +37,8 @@ body::before {
     width: 200%;
     height: 200%;
 
-    top: -20%;
-    left: -40%;
+    top: -10%;
+    left: -30%;
 
     background-image: url('./images/bg-pattern-top.svg');
     background-repeat: no-repeat;
@@ -53,8 +53,8 @@ body::after {
     width: 200%;
     height: 200%;
 
-    bottom: -20%;
-    right: -40%;
+    bottom: -10%;
+    right: -30%;
 
     background-image: url('./images/bg-pattern-bottom.svg');
     background-repeat: no-repeat;
@@ -184,4 +184,5 @@ body::after {
         width: 90%;
         max-width: 350px;
     }
+
 }
